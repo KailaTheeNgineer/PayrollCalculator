@@ -18,7 +18,7 @@ System.out.print("To begin, please enter your Name: ");
 
         double salary = hours * pay;
         System.out.println("Thank you for using Payroll Calculator, " + name);
-        System.out.println("Your gross pay is: " + salary);
+        System.out.println("Your gross pay is: $" + salary);
 
 
 
